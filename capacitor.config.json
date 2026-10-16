@@ -2,5 +2,5 @@
   "appId": "com.spotie.app",
   "appName": "Spotie",
   "webDir": "www",
-  "server": { "url": "https://karlhub67.github.io/Spottier/" }
+  "server": { "url": "https://karlhub67.github.io/Spotie/" }
 }
